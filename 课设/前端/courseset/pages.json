@@ -1,0 +1,78 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+        {
+            "path" : "pages/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "企业内部行文管理系统",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+			"path": "pages/safe/total",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/alter",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/write",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/help",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/recive",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/select",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/safe/parts/sys",
+			"style": {
+						
+						"navigationBarTitleText": "企业内部行文管理系统",
+						"enablePullDownRefresh": false
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "企业内部行文管理系统",
+		"navigationBarBackgroundColor": "#005500",
+		"backgroundColor": "#55ffff",
+		"enablePullDownRefresh": true
+	},
+	"uniIdRouter": {}
+}
